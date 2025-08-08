@@ -1,6 +1,6 @@
 # Torneo Deportivo Internacional 2025
 
-**Estudiantes:** [Jeferson Lopez]
+**Estudiante:** [Jeferson Lopez]
 
 ## Descripción del Proyecto
 
